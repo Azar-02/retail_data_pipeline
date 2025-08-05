@@ -1,0 +1,4 @@
+product_id,name,category,price,quantity,total_revenue,return_count,return_rate
+P001,Laptop,Electronics,65000,2,130000,1.0,0.5
+P002,Smartphone,Electronics,30000,5,150000,1.0,0.2
+P003,Office Chair,Furniture,7000,1,7000,0.0,0.0
