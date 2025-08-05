@@ -100,6 +100,7 @@ P002	Smartphone	Electronics	30000	5	150000	1	0.20
 ---
 
 📄 License
+---
 This project is licensed under the MIT License.
-
+---
 
