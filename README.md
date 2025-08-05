@@ -97,14 +97,9 @@ P002	Smartphone	Electronics	30000	5	150000	1	0.20
 ---
 - Mohamed Azarudeen S
 - Aspiring Cloud Data Engineer | Python | SQL | Data Pipelines
+---
 
 📄 License
 This project is licensed under the MIT License.
----
-Let me know if you'd like:
-- The CSV files are auto-generated and zipped
-- The README exported as a `.md` file
-- Custom GitHub repo name or branding
----
 
 
